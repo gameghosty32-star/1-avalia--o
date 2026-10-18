@@ -21,5 +21,7 @@ Aqui serão organizados todos os arquivos, códigos-fonte, documentações e rec
 *(Instruções passo a passo para configurar e executar o projeto localmente)*
 
 ## Autor
-
-*(Nome do aluno ou integrantes do grupo)*
+*Délcio Raúl Tchissola
+*Nº: 04
+*Turma: ATI
+*Sala:16
