@@ -10,3 +10,6 @@
 
 # Mantém o próprio .gitignore no repositório
 !.gitignore
+
+# Não publica a pasta do projeto
+profspace/
