@@ -1,1 +1,12 @@
-.txt
+# Ignora tudo por padrão
+*
+
+# Permite a travessia dos diretórios
+!*/
+
+# Publica apenas documentos .docx e .md
+!*.docx
+!*.md
+
+# Mantém o próprio .gitignore no repositório
+!.gitignore
