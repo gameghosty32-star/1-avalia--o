@@ -1,27 +1,24 @@
-# Projeto Tecnológico - 1ª Avaliação
+# ProfSpace
 
-## Introdução
+Uma plataforma web para organizar o trabalho pedagógico e aproximar as ferramentas do dia a dia escolar num único espaço.
 
-Este repositório contém o desenvolvimento do trabalho escolar de Projeto Tecnológico, referente à 1ª avaliação da disciplina. O objetivo principal é aplicar conceitos teóricos e práticos aprendidos em sala de aula na criação de uma solução tecnológica que resolva um problema real ou atenda a uma necessidade específica.
+> **Nota:** Projeto em desenvolvimento. Esta versão é uma beta de demonstração e não deve ser usada com dados reais de alunos ou de instituições.
 
-Aqui serão organizados todos os arquivos, códigos-fonte, documentações e recursos necessários para a execução e apresentação do projeto.
+## O que é o ProfSpace?
 
-## Estrutura do Repositório
+O ProfSpace é um projeto de software educativo pensado para ajudar professores e equipas escolares a organizar tarefas pedagógicas que normalmente ficam espalhadas por cadernos, folhas de cálculo, mensagens e várias aplicações.
 
-- `/src` – Código-fonte do projeto
-- `/docs` – Documentação e relatórios
-- `/assets` – Imagens e recursos adicionais
+A visão começa pelo trabalho do professor, mas foi concebida para poder crescer para um contexto institucional. Um dos princípios centrais é separar a pessoa, o papel profissional e o espaço de trabalho: alguém pode usar um espaço pessoal, participar numa instituição ou ter funções diferentes em contextos distintos, sem misturar automaticamente os respetivos dados e permissões.
 
-## Tecnologias Utilizadas
+## O problema que quero resolver
 
-*(Listar as tecnologias, linguagens e ferramentas utilizadas no projeto)*
+O trabalho escolar envolve turmas, alunos, disciplinas, horários, planificações, presenças, avaliações, provas, pautas e comunicados. Quando estas tarefas ficam distribuídas por ferramentas diferentes, aumenta o esforço de organização e torna-se mais difícil perceber o que exige atenção.
 
-## Como Executar
-
-*(Instruções passo a passo para configurar e executar o projeto localmente)*
+O ProfSpace procura reunir essas rotinas num ambiente coerente, com uma interface simples e permissões adequadas ao papel de cada utilizador.
 
 ## Autor
-*Délcio Raúl Tchissola
-*Nº: 04
-*Turma: ATI
-*Sala:16
+
+- **Nome:** Délcio Raúl Tchissola
+- **Nº:** 04
+- **Turma:** ATI
+- **Sala:** 16
