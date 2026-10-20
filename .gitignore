@@ -7,7 +7,7 @@
 # Publica apenas documentos .docx e .md
 !*.docx
 !*.md
-
+!*.pdf
 # Mantém o próprio .gitignore no repositório
 !.gitignore
 
